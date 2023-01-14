@@ -1,2 +1,1 @@
-# Georgia Tech Spring 2023
-ISYE 7406 - data mining + statistical learning
+putting all my homework assignments for the semester here
