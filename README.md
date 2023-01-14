@@ -1,2 +1,2 @@
-# ISYE 7406 Spring 2023
-georgia tech - data mining + statistical learning
+# Georgia Tech Spring 2023
+ISYE 7406 - data mining + statistical learning
